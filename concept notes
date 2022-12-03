@@ -1,1 +1,2 @@
 
+This is a combined MFA system that makes use of both registration and tap sequenceing for login authentication and QR-code authentication for transaction (assuming this is in a bank application)
